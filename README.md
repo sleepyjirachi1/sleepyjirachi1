@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="center">Hey, I'm Autumn</h2>
+<h3 align="center">I make apps, games and other stuff.</h3>  
 
-<!--
-**sleepyjirachi1/sleepyjirachi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Student
+- 🌱 I’m currently learning **Java, C, C++ and Assembly**
+- 💬 Feel free to ask me about anything related to languages in the ***Languages, Tools and Achievements*** section
+- ⚡ I do not believe in the AI apocalypse
 
-Here are some ideas to get you started:
+<h3 align="left">Languages, Tools and Achievements:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/sleepyjirachi1">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=autumn-miller&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/sleepyjirachi1">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=autumn-miller&show_icons=true&theme=tokyonight" />
+</a>
+
+<p align="left"> <a href="https://www.codewars.com/users/autumn-miller" target="_blank" rel="noreferrer"/> <img src="https://www.codewars.com/users/autumn-miller/badges/large?logo=false" alt="codewars rank" width="400" height="200"/> </p>
