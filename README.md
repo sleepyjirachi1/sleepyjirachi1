@@ -14,5 +14,6 @@
 <a href="https://github.com/sleepyjirachi1">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sleepyjirachi1&show_icons=true&theme=tokyonight" />
 </a>
-
-<p align="left"> <a href="https://www.codewars.com/users/sleepyjirachi1" target="_blank" rel="noreferrer"/> <img src="https://www.codewars.com/users/sleepyjirachi1/badges/large?logo=false" alt="codewars rank" width="200" height="100"/> </p>
+<a href="https://www.codewars.com/users/sleepyjirachi1" target="_blank" rel="noreferrer"/>
+  <img src="https://www.codewars.com/users/sleepyjirachi1/badges/large?logo=false" alt="codewars rank" width="400" height="200"/>
+</a>
